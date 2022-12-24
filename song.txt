@@ -2,8 +2,4 @@ ok
 two more 
 lines
 
-another
-lines
-now new 
-lines
-------------------------
+second branch
